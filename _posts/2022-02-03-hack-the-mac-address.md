@@ -57,11 +57,13 @@ So, being able to change your MAC address to another device's MAC address will a
 
 So, you'd be able to bypass filters or connect to networks that only specific device with specific MAC addresses can connect to, and you will also be able to hide your identity. Interesting, riright
 
-### Time For Practical
+## Time For Practical
 
 You now know what a MAC address is and its related concepts.
 
 It is time for some practical implementation and actually performing MAC spoofing.
+
+### On Kali/Linux
 
 ​Get your ​**Kali​** ready, open up the terminal, and let's start...
 
@@ -99,7 +101,7 @@ Follow the steps and run the given commands,
 
 Now simply run the command `ifconfig` and check! The MAC address will be changed...
 
-#### Let's do it on Windows now
+### Let's do it on Windows now
 
 Changing MAC on Kali was really interesting and simple. Let's check how it can be done on Windows. For this, we will use a tool called Technitium MAC Address Changer.
 
@@ -128,7 +130,7 @@ Notice the change in the MAC address.
 
 Later, you can go to Technitium and restore the original one again.
 
-### Preventing MAC Spoofing
+## Preventing MAC Spoofing
 
 Knowing the skills is great but, it is also necessary to know how to prevent it. Let's check that out.
 
@@ -152,7 +154,7 @@ Most operating systems by default do not check if a received IP datagram origina
 
 Unauthorized MAC addresses are therefore exposed, and the decision to take defensive action can then take place.
 
-### Real Life Facts
+## Real Life Facts
 
 - MAC Address is not an attack that will give you access to systems, but it will play a very important role in network hacking.
 - MAC Spoofing is one of the important steps in Wifi Hacking.
