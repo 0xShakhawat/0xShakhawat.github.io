@@ -6,7 +6,12 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
-0xShakhawat:
+shakhawat:
   name: 0xShakhawat
+  twitter: 0xShakhawat
+  url: https://github.com/0xShakhawat/
+
+sk:
+  name: Prof. SK
   twitter: 0xShakhawat
   url: https://github.com/0xShakhawat/

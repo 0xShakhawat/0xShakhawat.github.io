@@ -1,6 +1,6 @@
 ---
 title: Hack The MAC Address
-author: 0xShakhawat
+author: shakhawat
 date: 2022-02-03 11:33:00 +0600
 categories: [Networking, MAC Address]
 tags: [hacking, basic, networking]
