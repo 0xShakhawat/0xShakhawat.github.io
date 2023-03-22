@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+a passionate Security Researcher, Creator && hobbyist App developer.. In my free time, I like developing my skills and blogging about them. Have a good read!
